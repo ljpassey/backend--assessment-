@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Doug",
+        "type": "Labrador Retreiver",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/04/Labrador_Retriever_%281210559%29.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Bernard",
+        "type": "Bernese Mountain Dog",
+        "imageURL": "https://alaskadogworks.com/wp-content/uploads/2020/02/Bernese-Mountain-Dog-Temperament-long.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Inu-chan",
+        "type": "Shiba Inu",
+        "imageURL": "https://www.scotsman.com/webimg/b25lY21zOmNiZDU5Yzk4LTdhYWMtNGY3Ny05NmI3LWYyYzM0OGUzY2QwNDpkZmNkNTQ0MS01NzdmLTQ5MjctODkzNi1hZGMwNTk0YmVjNDE=.jpg?width=1200&enable=upscale"
+    }
+]
